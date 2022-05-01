@@ -26,7 +26,7 @@ We’ll first use MediaPipe to recognize the hand and the hand key points. Media
     <Br>
 These key points will be fed into a pre-trained gesture recognizer network to recognize the hand pose.
 
-#Prerequisites for this project:
+# Prerequisites for this project:
 1. Python – 3.x (we used Python 3.8.8 in this project)
 2. OpenCV – 4.5
 
