@@ -9,11 +9,21 @@ MediaPipe is a customizable machine learning solutions framework developed by Go
 TensorFlow is an open-source library for machine learning and deep learning developed by the Google brains team. It can be used across a range of tasks but has a particular focus on deep neural networks.
 
 <B>Neural Networks</B> are also known as artificial neural networks. It is a subset of machine learning and the heart of deep learning algorithms. The concept of Neural networks is inspired by the human brain. It mimics the way that biological neurons send signals to one another. Neural networks are composed of node layers, containing an input layer, one or more hidden layers, and an output layer.
+<Br>
+  <Br>
+    <Br>
 ![image](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/ann.jpg)
 <Br>
+  <Br>
+    <Br>
 We’ll first use MediaPipe to recognize the hand and the hand key points. MediaPipe returns a total of 21 key points for each detected hand.
+<br>
+      <Br>
+        <Br>
 ![image](https://user-images.githubusercontent.com/55156585/166136949-74a4da82-8bd3-49d7-bf8e-5eabc34e4df0.png)
 <Br>
+  <Br>
+    <Br>
 These key points will be fed into a pre-trained gesture recognizer network to recognize the hand pose.
 
 #Prerequisites for this project:
