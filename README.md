@@ -42,7 +42,7 @@ Run ```pip install tensorflow``` to install the tensorflow module.
 
 # Outputs
 
-      <br>
+<br>
 <br>
 <br>
       
