@@ -39,3 +39,7 @@ Run ```pip install mediapipe``` to install MediaPipe.
 Run ```pip install tensorflow``` to install the tensorflow module.
 
 5. Numpy – 1.19.3
+
+#Outputs
+      
+![image](Outputs/img1.png)
