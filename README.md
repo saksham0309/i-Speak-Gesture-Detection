@@ -40,6 +40,28 @@ Run ```pip install tensorflow``` to install the tensorflow module.
 
 5. Numpy – 1.19.3
 
-#Outputs
-      
+# Outputs
+      <Br>
+        <br>
+        <br>
 ![image](Outputs/img1.png)
+        <Br>
+        <br>
+        <br>
+      ![image](Outputs/img2.png)
+          <Br>
+        <br>
+        <br>
+      ![image](Outputs/img3.png)
+            <Br>
+        <br>
+        <br>
+      ![image](Outputs/img4.png)
+              <Br>
+        <br>
+        <br>
+      ![image](Outputs/img5.png)
+                <Br>
+        <br>
+        <br>
+      ![image](Outputs/img6.png)
