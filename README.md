@@ -27,15 +27,15 @@ We’ll first use MediaPipe to recognize the hand and the hand key points. Media
 These key points will be fed into a pre-trained gesture recognizer network to recognize the hand pose.
 
 # Prerequisites for this project:
-1. Python – 3.x (we used Python 3.8.8 in this project)
+1. Python – 3.x (we used Python 3.8.8 in this project)<Br>
 
-2. OpenCV – 4.5
-Run “pip install opencv-python” to install OpenCV.
+2. OpenCV – 4.5<Br>
+Run ```pip install opencv-python``` to install OpenCV.
 
-3. MediaPipe – 0.8.5
-Run “pip install mediapipe” to install MediaPipe.
+3. MediaPipe – 0.8.5<Br>
+Run ```pip install mediapipe``` to install MediaPipe.
 
-4. Tensorflow – 2.5.0
-Run “pip install tensorflow” to install the tensorflow module.
+4. Tensorflow – 2.5.0 <Br>
+Run ```pip install tensorflow``` to install the tensorflow module.
 
 5. Numpy – 1.19.3
